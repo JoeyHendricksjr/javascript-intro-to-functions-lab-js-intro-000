@@ -1,11 +1,11 @@
 function shout(string) {
   return string.toUpperCase();
 }
-
+shout('HELLO');
 function whisper(string) {
   return string.toLowerCase();
 }
-
+whisper('hello');
 function sayHiToGrandma(string) {
 	let lowercase = string;
 	let uppercase = string;
