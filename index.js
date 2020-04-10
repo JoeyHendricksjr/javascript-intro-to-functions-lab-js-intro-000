@@ -1,8 +1,8 @@
-function logshout(string) {
+function shout(string) {
   return string.toUpperCase();
 }
 
-function logwhisper(string) {
+function whisper(string) {
   return string.toLowerCase();
 }
 
