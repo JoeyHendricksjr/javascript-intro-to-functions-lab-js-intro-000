@@ -10,6 +10,10 @@ function whisper(string) {
   return string.toLowerCase();
 }
 
+function logwhisper(string) {
+  console.log(string.toLowerCase());
+}
+
 function sayHiToGrandma(string) {
 	let lowercase = string;
 	let uppercase = string;
